@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+[Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo
 
 ![Gorsel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnqGtY5hPQu-8scGFONUXDTOWQvkdsi9Oag&usqp=CAU)
 
@@ -9,7 +9,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/tugcedivarci/kodluyoruzilkrepo.git
 ```
 
 ## Usage
